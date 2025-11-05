@@ -2,7 +2,7 @@
 
 **Audio & Signal Processing Innovation Hub**
 
-Sonora Lab is an innovation hub dedicated to pushing the boundaries of audio technology, signal processing, and immersive soundscape experiences. This platform serves as the parent organization for the [Sonora Soundscape App](https://sonora.com) and hosts cutting-edge audio research and experiments.
+Sonora Lab is an innovation hub dedicated to pushing the boundaries of audio technology, signal processing, and immersive soundscape experiences. This platform serves as the parent organization for the [Sonora Soundscape App](https://sonoraa.com) and hosts cutting-edge audio research and experiments.
 
 ## 🚀 What We Do
 
@@ -89,7 +89,7 @@ npm start
 
 ## 🌐 Related Projects
 
-- **[Sonora.com](https://sonora.com)** - Our flagship soundscape application built with Kirby CMS
+- **[Sonoraa.com](https://sonoraa.com)** - Our flagship soundscape application built with Kirby CMS
 - More projects coming soon!
 
 ## 🤝 Contributing
@@ -102,7 +102,7 @@ TBD
 
 ## 📧 Contact
 
-For questions or collaboration opportunities, reach out through [sonora.com](https://sonora.com)
+For questions or collaboration opportunities, reach out through [sonoraa.com](https://sonoraa.com)
 
 ---
 
